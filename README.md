@@ -1,3 +1,6 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1e6ba413-e9c1-404c-9132-06c0906e6477" />
+
+
 ### Hi there 👋
 
 I'm Marco, a Strategy & Data Analyst passionate about building solutions that bridge the gap between business and technology.
