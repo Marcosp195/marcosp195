@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/marcosanchezcsm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:marcosanchez.p95@gmail.com">
+  <a href="mailto:marcosanchez.p5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -62,23 +62,19 @@
 
 1. **AI-Powered Market Intelligence Agent (Cemex)**
    - **Tools Used:** Generative AI (Gemini), Prompt Engineering
-   - [cite_start]**Summary:** Proactively designed and built an AI agent to automate a 10-hour/week manual reporting process[cite: 92]. [cite_start]Reduced creation time by **90%** (to <1 hour) [cite: 107][cite_start], freeing up hundreds of team hours annually for higher-value analysis[cite: 108].
+   - **Summary:** Proactively designed and built an AI agent to automate a 10-hour/week manual reporting process. Reduced creation time by **90%** (to <1 hour), freeing up hundreds of team hours annually for higher-value analysis.
    - *(Internal Corporate Project - Code is proprietary)*
 
-2. **Python-Driven Marketing Strategy (Cemex)**
-   - **Tools Used:** Python (Pandas, NumPy), Jupyter Notebooks
-   - [cite_start]**Summary:** Developed a Python script to automate a 90-minute manual data analysis task[cite: 45, 49, 56]. [cite_start]The insights shifted the marketing strategy from "lead volume" to "lead quality" [cite: 53][cite_start], increasing the course completion rate by **10pp** [cite: 57] [cite_start]and the sales conversion rate from 2% to **~8%**.
-   - *(Internal Corporate Project - Code is proprietary)*
-
-3. **[Nombre de tu Proyecto Público/Académico]**
-   - **Tools Used:** Python, Pandas, (Scikit-learn?), etc.
-   - **Summary:** [Describe brevemente el objetivo del proyecto. ¿Qué problema resolviste?]
-   - **[Link to GitHub Repo]**
-
----
+2. **Financial Forecast & Collections Strategy (Hiring Challenge)**
+   - [cite_start]**Tools Used:** Python, Pandas, Matplotlib, Pandasql [cite: 79]
+   - [cite_start]**Summary:** Built a 12-month financial forecast for a startup's credit products[cite: 75]. [cite_start]Analyzed a call campaign's impact on debt recovery to assess profitability and recommend a sustainable growth strategy[cite: 77, 85].
+   - **[Link to GitHub Repo]** 3. **E-commerce Marketing & Sales Analysis (Academic)**
+   - [cite_start]**Tools Used:** Python, Pandas, Seaborn, Matplotlib [cite: 108, 133]
+   - [cite_start]**Summary:** Analyzed user behavior, sales (LTV), and marketing costs (CAC/ROMI) [cite: 89, 90, 91, 100, 103, 104] to identify unprofitable channels. [cite_start]Recommended reallocating the advertising budget from the highest-CAC channel to maximize ROI[cite: 106, 107].
+   - **[Link to GitHub Repo]** ---
 
 ### 📫 Let's Connect!
-- **Email:** marcosanchez.p95@gmail.com
+- **Email:** marcosanchez.p5@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/marcosanchezcsm/
 
 ---
@@ -89,6 +85,7 @@ My passion for exploration extends beyond data. I've traveled to 15 countries an
 ---
 
 ### :hammer_and_wrench: My statistics:
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marcosp195&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosp1G5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosp195&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
