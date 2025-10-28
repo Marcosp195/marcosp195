@@ -6,7 +6,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[TU_LINK_DE_LINKEDIN]">
+  <a href="https://www.linkedin.com/in/marcosanchezcsm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:marcosanchez.p95@gmail.com">
@@ -22,16 +22,19 @@
 </h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I am a <strong>Strategy & Data Analyst</strong> passionate about building solutions that bridge the gap between business and technology.
+  Welcome to my GitHub profile! I am a <strong>Strategy & Business Analyst</strong> with ~4.5 years of experience acting as a "translator" between business goals and technical solutions.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 💼 I’m currently working on **transforming business processes** with data-driven strategies and exploring how **AI can enhance market intelligence**.
-- 🌱 I’m currently learning to deepen my skills in **Python for data analysis (Pandas, Scikit-learn)**, and diving into the world of **LLMs and agentic workflows**.
-- 👯 I’m looking to collaborate on projects involving **data analysis**, building small **AI-powered tools**, or anything at the intersection of data, strategy, and business automation.
-- 💬 Ask me about how to translate business problems into data-driven strategies, process transformation, and using AI for market intelligence.
+
+- 💡 My professional DNA is acting as a **"bridge"** between complex business objectives and the technology needed to achieve them.
+- 🧠 I have an **Industrial Engineer's mindset**: I tackle challenges by breaking down ambiguous problems, analyzing processes, and designing systemic, efficient solutions.
+- 🔭 I’m currently focused on **transforming business processes** with data and exploring how AI (LLMs, Agentic Workflows) can enhance market intelligence.
+- 🌱 I’m deepening my skills in **Python for exploratory data analysis** (Pandas, Scikit-learn).
+- 👯 I’m looking to collaborate on projects involving data analysis, business process automation, or building small AI-powered tools.
+- 💬 Ask me about: Translating business problems into data strategies, process re-engineering, and global stakeholder management.
 - 😄 Pronouns: He/Him
 
 ---
@@ -41,29 +44,36 @@
 <p align="center">
   <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   <img decoding="async" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-  <img decoding="async" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img decoding="async"src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
-  <img decoding="async"src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
-  </p>
+  <img decoding="async" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
+  <img decoding="async" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="powerbi"/>
+  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
+  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white" alt="visio"/>
+</p>
 
-- **Programming & Data:** Python, SQL, Pandas, Scikit-learn
-- **AI & ML:** LLMs, Agentic Workflows, Generative AI
-- **Business & Strategy:** Process Transformation, Market Intelligence, Business Automation
-- **Other Tools:** Git, GitHub, (¿Alguna herramienta de BI como Power BI o Tableau?)
+- **Programming & Data:** Python (Pandas, NumPy), SQL (Intermediate-Advanced), Power BI (Advanced), Excel (Advanced)
+- **AI & ML:** Generative AI, Prompt Engineering
+- **Business & Strategy:** Process Re-engineering, Stakeholder Management, Project Management, Market Intelligence
+- **Other Tools:** Git, GitHub, Jira, Confluence, MS Dynamics, Visio
 
 ---
 
 ### 📊 Recent Projects
 
-1. **[Nombre del Proyecto 1: Ej. AI-Powered Market Intel Tool]**
-   - **Tools Used:** Python, Pandas, (LLM API)
-   - **Summary:** [Desarrollé una herramienta que automatiza la recopilación y análisis de...]
-   - **[Link to Repo] (Opcional, si es público)**
+1. **AI-Powered Market Intelligence Agent (Cemex)**
+   - **Tools Used:** Generative AI (Gemini), Prompt Engineering
+   - [cite_start]**Summary:** Proactively designed and built an AI agent to automate a 10-hour/week manual reporting process[cite: 92]. [cite_start]Reduced creation time by **90%** (to <1 hour) [cite: 107][cite_start], freeing up hundreds of team hours annually for higher-value analysis[cite: 108].
+   - *(Internal Corporate Project - Code is proprietary)*
 
-2. **[Nombre del Proyecto 2: Ej. Business Process Automation]**
-   - **Tools Used:** Python, (Alguna librería de automatización)
-   - **Summary:** [Optimicé un proceso de back-office que redujo el tiempo manual en X% mediante...]
-   - **[Link to Repo] (Opcional)**
+2. **Python-Driven Marketing Strategy (Cemex)**
+   - **Tools Used:** Python (Pandas, NumPy), Jupyter Notebooks
+   - [cite_start]**Summary:** Developed a Python script to automate a 90-minute manual data analysis task[cite: 45, 49, 56]. [cite_start]The insights shifted the marketing strategy from "lead volume" to "lead quality" [cite: 53][cite_start], increasing the course completion rate by **10pp** [cite: 57] [cite_start]and the sales conversion rate from 2% to **~8%**.
+   - *(Internal Corporate Project - Code is proprietary)*
+
+3. **[Nombre de tu Proyecto Público/Académico]**
+   - **Tools Used:** Python, Pandas, (Scikit-learn?), etc.
+   - **Summary:** [Describe brevemente el objetivo del proyecto. ¿Qué problema resolviste?]
+   - **[Link to GitHub Repo]**
 
 ---
 
@@ -79,7 +89,6 @@ My passion for exploration extends beyond data. I've traveled to 15 countries an
 ---
 
 ### :hammer_and_wrench: My statistics:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marcosp195&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=[TU_USUARIO_DE_GITHUB]&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosp1G5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
