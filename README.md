@@ -69,7 +69,7 @@
 
 ### 📫 Let's Connect!
 - **Email:** marcosanchez.p95@gmail.com
-- **LinkedIn:** [TU_LINK_DE_LINKEDIN]
+- **LinkedIn:** https://www.linkedin.com/in/marcosanchezcsm/
 
 ---
 
