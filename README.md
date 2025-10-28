@@ -21,7 +21,7 @@
 </h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I am a <strong>Strategy & Business Analyst</strong> with ~4.5 years of experience acting as a "translator" between business goals and technical solutions.
+  Welcome to my GitHub profile! I am a <strong>Strategy & Business Analyst</strong> with 5 years of experience acting as a "translator" between business goals and technical solutions.
 </p>
 
 ---
