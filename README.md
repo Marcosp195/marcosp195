@@ -1,6 +1,5 @@
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1e6ba413-e9c1-404c-9132-06c0906e6477" />
 
-
 <div id="header" align="center">
   <img decoding="async" src="[URL_DE_TU_IMAGEN_BANNER.png]" width="800" height="300" alt="Marco Sanchez - Strategy & Data Analyst"/>
 </div>
@@ -9,7 +8,7 @@
   <a href="https://www.linkedin.com/in/marcosanchezcsm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:marcosanchez.p5@gmail.com">
+  <a href="mailto:marcosanchez.p95@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -66,15 +65,19 @@
    - *(Internal Corporate Project - Code is proprietary)*
 
 2. **Financial Forecast & Collections Strategy (Hiring Challenge)**
-   - [cite_start]**Tools Used:** Python, Pandas, Matplotlib, Pandasql [cite: 79]
-   - [cite_start]**Summary:** Built a 12-month financial forecast for a startup's credit products[cite: 75]. [cite_start]Analyzed a call campaign's impact on debt recovery to assess profitability and recommend a sustainable growth strategy[cite: 77, 85].
-   - **[Link to GitHub Repo]** 3. **E-commerce Marketing & Sales Analysis (Academic)**
-   - [cite_start]**Tools Used:** Python, Pandas, Seaborn, Matplotlib [cite: 108, 133]
-   - [cite_start]**Summary:** Analyzed user behavior, sales (LTV), and marketing costs (CAC/ROMI) [cite: 89, 90, 91, 100, 103, 104] to identify unprofitable channels. [cite_start]Recommended reallocating the advertising budget from the highest-CAC channel to maximize ROI[cite: 106, 107].
-   - **[Link to GitHub Repo]** ---
+   - **Tools Used:** Python, Pandas, Matplotlib, Pandasql
+   - **Summary:** Built a 12-month financial forecast for a startup's credit products. Analyzed a call campaign's impact on debt recovery to assess profitability and recommend a sustainable growth strategy.
+   - **[Link to GitHub Repo](https://github.com/Marcosp195/stori_challenge)**
+
+3. **E-commerce Marketing & Sales Analysis (Academic)**
+   - **Tools Used:** Python, Pandas, Seaborn, Matplotlib
+   - **Summary:** Analyzed user behavior, sales (LTV), and marketing costs (CAC/ROMI) to identify unprofitable channels. Recommended reallocating the advertising budget from the highest-CAC channel to maximize ROI.
+   - **[Link to GitHub Repo](https://github.com/Marcosp195/Business-Analytics)**
+
+---
 
 ### 📫 Let's Connect!
-- **Email:** marcosanchez.p5@gmail.com
+- **Email:** marcosanchez.p95@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/marcosanchezcsm/
 
 ---
@@ -86,6 +89,6 @@ My passion for exploration extends beyond data. I've traveled to 15 countries an
 
 ### :hammer_and_wrench: My statistics:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marcosp195&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github.com/readme-streak-stats.herokuapp.com?user=Marcosp195&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosp195&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
