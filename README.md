@@ -60,19 +60,24 @@
 ### 📊 Recent Projects
 
 1. **AI-Powered Market Intelligence Agent (Cemex)**
-   - **Tools Used:** Generative AI (Gemini), Prompt Engineering
-   - **Summary:** Proactively designed and built an AI agent to automate a 10-hour/week manual reporting process. Reduced creation time by **90%** (to <1 hour), freeing up hundreds of team hours annually for higher-value analysis.
-   - *(Internal Corporate Project - Code is proprietary)*
+    - **Tools Used:** Generative AI (Gemini), Prompt Engineering
+    - **Summary:** Proactively designed and built an AI agent to automate a 10-hour/week manual reporting process. Reduced creation time by **90%** (to <1 hour), freeing up hundreds of team hours annually for higher-value analysis.
+    - *(Internal Corporate Project - Code is proprietary)*
 
 2. **Financial Forecast & Collections Strategy (Hiring Challenge)**
-   - **Tools Used:** Python, Pandas, Matplotlib, Pandasql
-   - **Summary:** Built a 12-month financial forecast for a startup's credit products. Analyzed a call campaign's impact on debt recovery to assess profitability and recommend a sustainable growth strategy.
-   - **[Link to GitHub Repo](https://github.com/Marcosp195/stori_challenge)**
+    - **Tools Used:** Python, Pandas, Matplotlib, Pandasql
+    - **Summary:** Built a 12-month financial forecast for a startup's credit products. Analyzed a call campaign's impact on debt recovery to assess profitability and recommend a sustainable growth strategy.
+    - **[Link to GitHub Repo](https://github.com/Marcosp195/stori_challenge)**
 
 3. **E-commerce Marketing & Sales Analysis (Academic)**
-   - **Tools Used:** Python, Pandas, Seaborn, Matplotlib
-   - **Summary:** Analyzed user behavior, sales (LTV), and marketing costs (CAC/ROMI) to identify unprofitable channels. Recommended reallocating the advertising budget from the highest-CAC channel to maximize ROI.
-   - **[Link to GitHub Repo](https://github.com/Marcosp195/Business-Analytics)**
+    - **Tools Used:** Python, Pandas, Seaborn, Matplotlib
+    - **Summary:** Analyzed user behavior, sales (LTV), and marketing costs (CAC/ROMI) to identify unprofitable channels. Recommended reallocating the advertising budget from the highest-CAC channel to maximize ROI.
+    - **[Link to GitHub Repo](https://github.com/Marcosp195/Business-Analytics)**
+
+4. **Megaline Telecom Plan Analysis (Portfolio Project)**
+    - **Tools Used:** Python, Pandas, NumPy, Matplotlib, SciPy (stats)
+    - **Summary:** Analyzed two prepaid mobile plans to determine which generates more revenue. Cleaned and aggregated 5 raw datasets, calculated monthly revenue (including overage charges), and used statistical hypothesis testing (t-tests) to compare plan profitability, providing a clear recommendation for the marketing team's budget allocation.
+    - **[Link to GitHub Repo](https://github.com/Marcosp195/Telco-Analytics)**
 
 ---
 
